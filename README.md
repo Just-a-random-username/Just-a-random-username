@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Just-a-random-username
-- 👀 I’m interested in Artificial Intelligence and video games
-- 🌱 I’m currently learning Python/C++/Java/Javascript
+- 👋 Hi, I’m Arjun Agnihotri
+- 👀 I’m interested in Artificial Intelligence, Datqa Science and video games
+- 🌱 I’m currently learning Python/C++/Java/Javascript/C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord id-> Obanai_Iguro#5394
 
