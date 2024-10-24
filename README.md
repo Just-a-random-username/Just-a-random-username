@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arjun Agnihotri
 - 👀 I’m interested in Artificial Intelligence, Datqa Science and video games
-- 🌱 I’m currently learning Python/C++/Java/C#
+- 🌱 I’m currently learning Machine Learning/Generative AI/Data Science/Rust
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science projects
 
 <!---
